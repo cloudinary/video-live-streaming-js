@@ -1,6 +1,6 @@
 # LiveStreamApi
 
-All URIs are relative to *https://api.cloudinary.com/v2/CLOUD_NAME/video*
+All URIs are relative to *https://api.cloudinary.com/v2/video/CLOUD_NAME*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------

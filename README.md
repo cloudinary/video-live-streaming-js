@@ -9,7 +9,7 @@ Use the Video Live Streaming API to create and manage your RTMP live streams. Th
 
 ### API Endpoints
 
-All URIs are relative to *https://api.cloudinary.com/v2/CLOUD_NAME/video*
+All URIs are relative to *https://api.cloudinary.com/v2/video/CLOUD_NAME*
 
 | Class | Method | HTTP request | Description |
 | ------------ | ------------- | ------------- | ------------- |
